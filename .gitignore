@@ -1,0 +1,8 @@
+.idea
+.vscode
+main
+main.zip
+package.yaml
+vendor/*
+Gopkg.lock
+cp.out
